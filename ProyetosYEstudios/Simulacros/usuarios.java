@@ -1,10 +1,10 @@
 package formulario;
 
-public class formulario {
+public class usuarios {
 
 	String nombre, apellido, email, dni;
 	
-	public formulario(String nombre, String apellido, String email, String dni) {
+	public usuarios(String nombre, String apellido, String email, String dni) {
 		this.nombre = nombre;
 		this.apellido = apellido;
 		this.email = email;
