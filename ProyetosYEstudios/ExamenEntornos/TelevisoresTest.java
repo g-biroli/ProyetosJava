@@ -13,5 +13,11 @@ class TelevisoresTest {
 		assertEquals(cantidad, Televisores.comprarTelevisores(precioDiario, cantidad, precioTotal));
 		
 	}
+    //Observaciones:
+    // No hacer array para guardar datos, mas si una collecion -> crear fuera del @test
+    //public static Collection<Object[]> data(){}
+	
+    //El instanciamiento del objecto tiene que ser hecho dientro de la clase main, no del test.
+    //
 	
 }
