@@ -7,7 +7,7 @@ import java.util.Collection;
 import org.junit.jupiter.api.Test;
 
 import extraordinaria.Parte1.ComprarAuto;	//comentario prueba
-
+											// comentario
 	public class Parte1Test {       //junit test
 	double expected;
 	int cantidad;
