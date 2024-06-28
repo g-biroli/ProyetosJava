@@ -6,7 +6,7 @@ import java.util.Collection;
 
 import org.junit.jupiter.api.Test;
 
-import extraordinaria.Parte1.ComprarAuto;	//test proyecto prueba
+import extraordinaria.Parte1.ComprarAuto;	
 											
 	public class Parte1Test {       //junit test
 	double expected;
