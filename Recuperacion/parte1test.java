@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import extraordinaria.Parte1.ComprarAuto;	
 											
-	public class Parte1Test {       //junit test
+	public class Parte1Test {       
 	double expected;
 	int cantidad;
 	ComprarAuto compraAuto;
